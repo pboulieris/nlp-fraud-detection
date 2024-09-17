@@ -32,6 +32,7 @@ Once these files are in place, you can run the code and generate several new col
 
 ## Notes
 
+* Dataset password: The name of this repository.
 * The code assumes that the actions column in the DataFrame is a list of lists, where each inner list contains a sequence of actions taken in a single transaction.
 * The code also assumes that the times column in the DataFrame is a list of lists, where each inner list contains the timestamp (in milliseconds) of each action taken in a single transaction.
 
